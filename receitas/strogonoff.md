@@ -1,25 +1,28 @@
 # Strogonoff de Frango :chicken:
 
-### Ingredientes
+### Ingredientes:
 
- - 1 colher (sobremesa) de azeite;
- - 400g de Tiras de Frango Na Receita Sadia;
- - 1 colher (café) de sal;
- - 1 colher (café) de páprica picante;
- - ½ lata de tomates pelados;
- - 1 colher (sopa) de mostarda;
- - 1 colher (sopa) de molho inglês;
- - 1 xícara (chá) de champignons cortados ao meio;
- - 1 lata de creme de leite.
+ - 3 colheres de sopa de óleo;
+ - 1 tablete de caldo de galinha;
+ - 1 quilo de peito de frango em cubos;
+ - 2 colheres de sopa de molho de tomate;
+ - 2 colheres de sopa de mostarda;
+ - 2 colheres de sopa de ketchup;
+ - Champignon a gosto;
+ - 1 lata de creme de leite sem soro.
 
-### Modo de Preparo
+### Modo de Preparo:
 
- - 1. Em uma panela, aqueça o azeite e refogue as tiras de frango;
+1. Em uma panela, coloque 3 colheres de sopa de óleo e 1 tablete de caldo de galinha. Espere aquecer para dissolver o tablete.
 
- - 2. Tempere com o sal e com a páprica e junte os tomates pelados;
+2. Em seguida, adicione 1 quilo de peito de frango em cubos e deixe dourar.
 
- - 3. Refogue e adicione a mostarda, o molho inglês e os champignons;
+3. Depois, acrescente 2 colheres de sopa de molho de tomate, 2 colheres de sopa de mostarda, 2 colheres de sopa de ketchup e champignon a gosto. Misture.
 
- - 4. Cozinhe por mais 1-2 minutos e junte o creme de leite (não deixe ferver, apenas aquecer);
+4. Desligue o fogo e acrescente 1 lata de creme de leite. Misture novamente.
 
- - 5. Sirva.
+5. Sirva em seguida.
+
+
+
+#Receita retirada do site receitas (https://receitas.globo.com/strogonoff-de-frango-simples-4fbe8cc656ec5b3c9801b7e5.ghtml)
